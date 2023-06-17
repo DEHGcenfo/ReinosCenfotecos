@@ -1,0 +1,1 @@
+NOTA: Se requiere de un OpenJDK platform binary para poder correr el .jar como un ejecutable.
